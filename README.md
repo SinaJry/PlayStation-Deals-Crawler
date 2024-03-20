@@ -1,2 +1,2 @@
 # PlayStation Store-Deals-Crawler
-Want to know what's happening with PlayStation Deals? Use this crawler to gather data and store it in a SQLite database.
+Stay on top of PlayStation Deal Prices! This Crawler can help you collect game price data and store them in a SQLite database.
